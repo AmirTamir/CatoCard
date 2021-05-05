@@ -1,0 +1,29 @@
+
+.app-img {
+    display: block;
+    max-height: 50px;
+    width: 90px;
+
+}
+
+.table-actions {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.table-container {
+    width: 640px;
+    height: 470px;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.header-class {
+    background-color: #f7f7f7;
+    font-weight: bolder;
+}
+
+

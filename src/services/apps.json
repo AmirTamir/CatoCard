@@ -1,0 +1,63 @@
+[
+  {
+    "id": 0,
+    "app": "https://3m2k8k3eno372v15wh25rv3f-wpengine.netdna-ssl.com/wp-content/themes/innovid/public/images/logo-innovid.svg",
+    "user_count": 12,
+    "traffic": 100,
+    "risk_score": 10,
+    "sanctioned": "true"
+  },
+
+  {
+    "id": 1,
+    "app": "https://media.predictiveindex.com/wp-content/uploads/2019/06/30124126/adp_workforce_now_logo-1-300x158.png",
+    "user_count": 30,
+    "traffic": 120,
+    "risk_score": 9,
+    "sanctioned": "true"
+  },
+
+  {
+    "id": 2,
+    "app": "https://upload.wikimedia.org/wikipedia/he/b/b2/Reddit_logo.svg.png",
+    "user_count": 13,
+    "traffic": 220,
+    "risk_score": 9,
+    "sanctioned": "false"
+  },
+
+  {
+    "id": 3,
+    "app": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_DANXpF2qUh3sAH2C9IwANJ1ujROX2E0F3vIh9to2o_yGL_NXSuQqSpbuZwdvN2HiQM&usqp=CAU",
+    "user_count": 20,
+    "traffic": 240,
+    "risk_score": 9,
+    "sanctioned": "false"
+  },
+
+  {
+    "id": 4,
+    "app": "https://seekvectorlogo.com/wp-content/uploads/2019/02/plex-systems-vector-logo.png",
+    "user_count": 600,
+    "traffic": 120,
+    "risk_score": 8,
+    "sanctioned": "false"
+  },
+  {
+    "id": 5,
+    "app": "https://upload.wikimedia.org/wikipedia/he/f/fe/AVG_Logo_2014.png",
+    "user_count": 400,
+    "traffic": 80,
+    "risk_score": 6,
+    "sanctioned": "false"
+  },
+  {
+    "id": 6,
+    "app": "https://www.yeyeagency.com/wp-content/uploads/2020/12/avast-logo-czechia.jpg",
+    "user_count": 120,
+    "traffic": 300,
+    "risk_score": 10,
+    "sanctioned": "true"
+  }
+
+]
